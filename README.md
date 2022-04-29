@@ -11,8 +11,7 @@ To start a local docker instance of kafka run:
 ./docker-compose up
 ```
 
-Note: this also starts an instance of [kafka-ui](https://github.com/provectus/kafka-ui), that can be access
-on http://localhost:8080
+Note: this also starts an instance of [kafka-ui](https://github.com/provectus/kafka-ui), available on http://localhost:8080
 
 To start the spring boot application run:
 
